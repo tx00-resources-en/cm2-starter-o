@@ -17,10 +17,10 @@ export default defineConfig({
     },
   },
 });
-
+ 
 
 // export default defineConfig({
-//   plugins: [react()],
+  // plugins: [react()],
 //   server: {
 //     port: 3000,
 //     proxy: {
