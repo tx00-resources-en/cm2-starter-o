@@ -76,4 +76,4 @@ npm run preview
 ### About 
 This is the jobs listing project based on the [YouTube crash course](https://youtu.be/LDB4uaJ87e0).
 
-<img src="public/screen.png" />
+<img src="./frontend/public/screen.png" />
